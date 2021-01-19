@@ -9,7 +9,6 @@ You can convert all the .pcd files (sorted in ascending order by file name) in t
 `~$ pip install numpy`  
 `~$ pip install argparse`  
 `~$ pip install pypcd`  
-`~$ pip install csv`  
 `~$ pip install tqdm`  
 
 ### 2. Launch python file ###
