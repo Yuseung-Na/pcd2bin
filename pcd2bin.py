@@ -23,13 +23,13 @@ def main():
         "--pcd_path",
         help=".pcd file path.",
         type=str,
-        default="~/lidar_pcd"
+        default="/home/user/lidar_pcd"
     )
     parser.add_argument(
         "--bin_path",
         help=".bin file path.",
         type=str,
-        default="~/lidar_bin"
+        default="/home/user/lidar_bin"
     )
     parser.add_argument(
         "--file_name",
