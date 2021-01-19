@@ -2,6 +2,7 @@
 
 This code is about .pcd to .bin converting tool.  
 PointCloud(.pcd) file includes `x, y, z, intensity, (ring, time)` data.  
+You can convert all the .pcd files (sorted in ascending order by file name) in the directory.  
 
 ## How to use ##
 ### 1. Install python libraries ###
@@ -14,7 +15,7 @@ PointCloud(.pcd) file includes `x, y, z, intensity, (ring, time)` data.
 ### 2. Launch python file ###
 `~$ python pcd2bin.py --pcd_path:(path of input pcd file directory) --bin_path:(path of output bin file directory)  ---file_name:(name of bin file)`
 
-### Parameters ###
+#### Parameters ####
 |Name|Description|Default value|
 |:---|:---|:---|
 |pcd_path|.pcd file path|"~/lidar_pcd"|
