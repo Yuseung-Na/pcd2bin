@@ -1,7 +1,7 @@
 ## About ##
 
 This code is about .pcd to .bin converting tool.  
-PointCloud(.pcd) file include `x, y, z, intensity, (ring, time)` data.  
+PointCloud(.pcd) file includes `x, y, z, intensity, (ring, time)` data.  
 
 ## How to use ##
 ### 1. Install python libraries ###
