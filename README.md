@@ -12,7 +12,7 @@ You can convert all the .pcd files (sorted in ascending order by file name) in t
 `~$ pip install tqdm`  
 
 ### 2. Launch python file ###
-`~$ python pcd2bin.py --pcd_path={path of input pcd file directory} --bin_path={path of output bin file directory}  ---file_name={name of bin file}`
+`~$ python pcd2bin.py --pcd_path={path of input pcd file directory} --bin_path={path of output bin file directory}  --file_name={name of bin file}`
 
 #### Parameters ####
 |Name|Description|Default value|
