@@ -5,6 +5,9 @@ PointCloud(.pcd) file includes `x, y, z, intensity, (ring, time)` data.
 You can convert all the .pcd files (sorted in ascending order by file name) in the directory.  
 
 ## How to use ##
+### 0. Environment ###
+Python 2.7
+
 ### 1. Install python libraries ###
 `$ pip install numpy`  
 `$ pip install argparse`  
